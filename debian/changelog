@@ -1,0 +1,17 @@
+dpa-ext-gnomekeyring (6.0.0.0) UNRELEASED; urgency=medium
+
+  * update
+
+ -- Deepin Packages Builder <packages@deepin.com>  Tue, 14 Jun 2022 18:23:27 +0800
+
+dpa-ext-gnomekeyring (6.0.0.0) unstable; urgency=medium
+
+  * release 6.0.0.0
+
+ --  <fanpengcheng@uniontech.com>  Tue, 14 June 2022 17:28:13 +0800
+
+dpa-ext-gnomekeyring (1.0-1) unstable; urgency=medium
+
+  * Initial release
+
+ -- Deepin <packages@deepin.com>  Mon, 29 Jan 2018 16:37:58 +0800
